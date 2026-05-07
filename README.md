@@ -34,5 +34,14 @@ While building this project, I practiced:
 npm install
 npm run dev
 
+users
+🙌 Contributing
+Feel free to fork this project and improve it.
+
+📄 License
+This project is open-source and available under the MIT License.
+
+
+
 
 
