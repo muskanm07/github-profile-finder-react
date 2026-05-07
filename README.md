@@ -33,12 +33,15 @@ While building this project, I practiced:
 ```bash
 npm install
 npm run dev
+```
+## 🙌 Contributing
 
-users
-🙌 Contributing
 Feel free to fork this project and improve it.
 
-📄 License
+---
+
+## 📄 License
+
 This project is open-source and available under the MIT License.
 
 
